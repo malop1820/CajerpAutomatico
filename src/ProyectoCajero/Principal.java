@@ -6,6 +6,10 @@ import java.util.Scanner;
 public class Principal {
 
 	public static void main(String[] args) {
+		
+		System.out.println("hola mundo");
+		System.out.println("se feliz");
+
 		Scanner lectura = null;
 		long numCuenta;
 		String nombres = null;
